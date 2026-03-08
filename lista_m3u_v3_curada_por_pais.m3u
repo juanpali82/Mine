@@ -1,0 +1,133 @@
+#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml.gz"
+# Playlist curada por país y categoría.
+# Base: tus listas antiguas depuradas + selección de señales abiertas/directas.
+# Referencias útiles para seguir ampliando con listas oficiales:
+# Portugal (M3UPT): https://m3upt.com/iptv
+# España (TDTChannels): https://www.tdtchannels.com/lists/tv.m3u
+# Nota: algunos canales pueden estar geobloqueados o cambiar sin aviso.
+#EXTINF:-1 group-title="Portugal | General",RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8
+#EXTINF:-1 group-title="Portugal | General",RTP Açores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal | General",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal | General",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 group-title="Portugal | Cultura",RTP Memória
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 group-title="Portugal | General",TVI
+http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 group-title="Portugal | Noticias",CNN Portugal / TVI24
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:-1 group-title="Portugal | General",Porto Canal
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+#EXTINF:-1 group-title="Portugal | Cultura",Canal 180
+http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
+#EXTINF:-1 group-title="Portugal | General",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
+#EXTINF:-1 group-title="Portugal | Cine",Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1 group-title="Portugal | Infantil",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1 group-title="Portugal | Musica",Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8
+#EXTINF:-1 group-title="España | General",La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 group-title="España | General",La 1 (Alt)
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 group-title="España | Noticias",RTVE 24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 group-title="España | Noticias",RTVE 24H (Alt)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 group-title="España | General",Antena 3
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:-1 group-title="España | General",La Sexta
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+#EXTINF:-1 group-title="España | General",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+#EXTINF:-1 group-title="España | General",Cuatro (Alt)
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+#EXTINF:-1 group-title="España | General",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+#EXTINF:-1 group-title="España | General",Telecinco (Alt)
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+#EXTINF:-1 group-title="España | Entretenimiento",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 group-title="España | Entretenimiento",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:-1 group-title="España | Entretenimiento",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 group-title="España | Entretenimiento",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 group-title="España | Deportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="España | Deportes",Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group-title="Argentina | Noticias",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 group-title="Argentina | General",TV Pública
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+#EXTINF:-1 group-title="Argentina | General",América TV
+https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
+#EXTINF:-1 group-title="Argentina | General",América TV (Alt)
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 group-title="Chile | General",TVN
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:-1 group-title="Chile | General",Mega (Geo Chile)
+https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 group-title="México | Noticias",FORO TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
+#EXTINF:-1 group-title="México | Noticias",ADN40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 group-title="México | General",Canal Catorce
+http://pontismmd.mmdlive.lldns.net/pontismmd/18c15984af7d4ec6ba1a3d13f2263608/chunklist.m3u8
+#EXTINF:-1 group-title="México | General",Canal Once Internacional
+https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
+#EXTINF:-1 group-title="México | General",Canal Once Nacional
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="México | Noticias",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="México | General",Multimedios Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="México | General",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 group-title="México | General",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="México | General",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="México | General",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",Bloomberg Television
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",CGTN Español
+https://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",France 24 Español
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",CNA
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 group-title="Internacional | Noticias",Euronews
+http://ott-cdn.ucom.am/s89/index.m3u8
+#EXTINF:-1 group-title="Deportes | Abierto",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Deportes | Abierto",100% Automoto
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes | Abierto",Fighttime
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w1335476872_b2596000.m3u8
+#EXTINF:-1 group-title="Deportes | Abierto",FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8
