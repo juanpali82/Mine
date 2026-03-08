@@ -1,0 +1,91 @@
+#EXTM3U url-tvg="https://m3upt.com/epg,https://www.tdtchannels.com/epg/TV.xml.gz"
+
+# PORTUGAL
+#EXTINF:-1 tvg-id="SIC.pt" group-title="Portugal",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" group-title="Portugal",SIC Notícias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" group-title="Portugal",RTP 3
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" group-title="Portugal",Euronews PT
+https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" group-title="Portugal",ARTV
+https://playout175.livextend.cloud/livenlin4/2liveartvpub2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIAfrica.pt" group-title="Portugal",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" group-title="Portugal",TVI Ficção
+https://video-auth1.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" group-title="Portugal",TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" group-title="Portugal",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" group-title="Portugal",Kuriakos TV
+https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
+
+# ESPAÑA
+#EXTINF:-1 tvg-id="La1.TV" group-title="España",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.TV" group-title="España",Teledeporte
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF:-1 tvg-id="Teleganes.TV" group-title="España",Teleganés
+https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-id="Distrito.TV" group-title="España",Distrito TV
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="Dejate.TV" group-title="España",Déjate de Historias TV
+https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
+#EXTINF:-1 group-title="España",EsTuTele
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16818&live=1&avod=1&cb=1&site_page=https%3A%2F%2Ftdtchannels.com&site_name=tdtchannels&hls_marker=1&content_cat=IAB1&content_genre=Entertainment&content_id=Estutele&content_language=es&content_rating=TV-G&content_title=Estutele&coppa=0&ssai_enabled=1
+#EXTINF:-1 group-title="España",iPROtv
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=1&network_id=16112&live=1&avod=0&hls_marker=1&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&position=preroll&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_channel=iprotv&content_genre=tv_broadcaster&content_rating=TV-G&content_network=streamingconnect&content_id=mirametv_live&us_privacy=1YNY&gdpr=0&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1 tvg-id="C33M.TV" group-title="España",C33 Madrid
+https://media2.streambrothers.com:1936/8140/8140/.m3u8
+#EXTINF:-1 group-title="España",LIRA TV
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+
+# ARGENTINA
+#EXTINF:-1 group-title="Argentina",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 group-title="Argentina",TLX
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+#EXTINF:-1 group-title="Argentina",Music Top
+https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+# CHILE
+#EXTINF:-1 group-title="Chile",TVN
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+#EXTINF:-1 group-title="Chile",Canal 13
+http://photocall.tv/ZeV1/v4.php/13c/13c.smil/.m3u8
+
+# MÉXICO
+#EXTINF:-1 group-title="México",Multimedios Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="México",Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 group-title="México",Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="México",Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="México",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="México",Foro TV
+https://d2416wdkjdz9sf.cloudfront.net/forotv/forotvm.m3u8
+
+# INTERNACIONAL | NOTICIAS
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 group-title="Noticias",France 24 Español
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="Noticias",CGTN Español
+https://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1 group-title="Noticias",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 group-title="Noticias",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 group-title="Noticias",Bloomberg TV
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+
+# DEPORTES ABIERTOS
+#EXTINF:-1 group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Deportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
